@@ -25,6 +25,7 @@
   </div>
 </template>
 
+<!-- Add "scoped" attribute to limit CSS to this component only -->
 <script>
 import BScroll from 'better-scroll'
 export default {
@@ -49,6 +50,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
   h1 {
-    height: 60px;
+    height: 2rem;
   }
 </style>
