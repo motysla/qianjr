@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      msg: '22222222222222222222'
+
     }
   }
 }
